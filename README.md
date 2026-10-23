@@ -310,4 +310,6 @@ Always verify engine parameters using appropriate diagnostic equipment before ma
 Developed as an independent automotive technology project.
 
 **Juken Racing Dashboard — Digital Race Panel for ECU Monitoring**
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/676f6fac-38d6-46bd-976d-b2f0d43649f0" />
+
 
